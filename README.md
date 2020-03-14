@@ -1,37 +1,17 @@
-## Welcome to my Data Science portfolio.
+## Data Science portfolio.
 
 
 
-### About me
+### Projects
+
+#### Machine Learning
+
+1. **Predicting lymph node status in thyroid microcarcinoma patients.** Evaluated multiple supervised machine learning methods (SVM, Logistic Regression, Random Forest) to implement a gene expression based classifier. The best calssifier was selected based on positive predictive value, which was considered more important than accuracy by stake holder (clinicians).
+
+2. **Characterizing mutations and artifacts in DNA sequencing data.** The goal of the project was to identify a semi-supervised machine learning alternetive the the existing supervised classifier (random forest) to make use of unlabeled data because of the high cost involved in curating a large training set. 
 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dilmi/dilmi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
